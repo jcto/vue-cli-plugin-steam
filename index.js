@@ -16,5 +16,4 @@ module.exports=(api,projectOptions)=>{
   api.registerCommand('test', args => {
     // 注册 `vue-cli-service test`
   })
-  consle.log(projectOptions)
 }

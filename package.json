@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-steam",
-  "version": "1.3.1",
+  "version": "1.3.2",
   "description": "a vue cli plugin",
   "main": "index.js",
   "scripts": {
