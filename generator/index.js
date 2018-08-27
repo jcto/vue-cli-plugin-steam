@@ -8,7 +8,7 @@ if(appVueContent.indexOf('~vux/src/styles/reset.less')>-1){
   console.log('已经有~vux/src/styles/reset.less样式')
 }else{
   api.render({
-    './src/App.vue':'./template/src/App.vue'
+    './template/src/App.vue':'./template/src/App.vue'
   })
 }
 
